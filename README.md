@@ -1,6 +1,6 @@
 # 👋 Bonjour, moi c’est Laurent
 
-Etudiant en Ingénierie des médias • Médiamaticien • Théologien  
+Etudiant en Ingénierie des médias • Médiamaticien • Théologien, spécialiste en pastorale • Ancien aumônier militaire   
 Curieux de nature, pragmatique par métier, passionné par les systèmes bien pensés.
 
 ---
