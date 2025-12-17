@@ -1,6 +1,6 @@
 # 👋 Bonjour, moi c’est Laurent
 
-Ingénierie des médias • Web • Données • Infrastructure  
+Etudiant en Ingénierie des médias • Médiamaticien • Théologien  
 Curieux de nature, pragmatique par métier, passionné par les systèmes bien pensés.
 
 ---
@@ -28,10 +28,10 @@ HTML • CSS • PHP • WordPress • SEO • UX
 SQL • Modélisation relationnelle • Analyse de données
 
 **Infra & systèmes**  
-Docker • Linux • Raspberry Pi • Synology • Git / GitHub
+Docker • Linux • Raspberry Pi • Synology • Git / GitHub • CLI
 
 **Organisation**  
-Notion • Trello • Markdown • Documentation propre
+Notion • Markdown • Latex • Documentation propre • M365
 
 ---
 
